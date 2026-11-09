@@ -7,6 +7,8 @@ Aplicação console em C# que:
 - confere se o resultado está ordenado;
 - exibe as **10 maiores transações** (os 10 últimos elementos após a ordenação crescente).
 
+## LINK PARA VIDEO NO YOUTUBE
+- LINK: https://youtu.be/ryl2UkxM-Yc
 
 
 ## Integrantes
